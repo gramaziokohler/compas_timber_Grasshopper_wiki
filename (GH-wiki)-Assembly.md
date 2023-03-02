@@ -19,4 +19,4 @@ The order in the list of `Joints` and `Features` matters!
 
 ***
 
-[&larr; back to overview](https://github.com/gramaziokohler/compas_timber/wiki/compas_timber-wiki)
+[&larr; back to overview](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki)

@@ -20,9 +20,9 @@ Based on this, `Assembly` takes care of generating the final geometry of the str
 &nbsp;
 
 **Important!**   
-The order in the list of `Joints` and `Features` matters! 
-* if the user inputs two different joint definitions for the same pair of beams, the last one in the list will be applied (overrides entries earlier in the list)
-* the `Joints` are processed first, then `Features`.
+
+* The order in the list of `Joints` and `Features` matters! For example: if there are two different joints defined for the same pair of beams in the list, the last one will be applied (overrides entries earlier in the list).
+* The `Joints` are processed first, then `Features`.
 
 
 

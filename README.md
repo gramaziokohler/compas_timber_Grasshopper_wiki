@@ -9,10 +9,10 @@
 
 ### Documentation & Tutorial
 **Table of Contents:**
-* [overall workflow](https://github.com/gramaziokohler/compas_timber/wiki/(GH-wiki)-workflow)
-* [Beams](https://github.com/gramaziokohler/compas_timber/wiki/(GH-wiki)-Beams)
-* [Joints](https://github.com/gramaziokohler/compas_timber/wiki/(GH-wiki)-Joints)
+* [overall workflow](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki/blob/main/(GH-wiki)-workflow.md)
+* [Beams](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki/blob/main/(GH-wiki)-Beams.md)
+* [Joints](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki/blob/main/(GH-wiki)-Joints.md)
 * Features
-* [Assembly](https://github.com/gramaziokohler/compas_timber/wiki/(GH-wiki)-Assembly)
+* [Assembly](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki/edit/main/(GH-wiki)-Assembly.md)
 * Attributes
 * Utilities

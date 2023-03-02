@@ -18,5 +18,5 @@ Based on this, `Assembly` takes care of generating the final geometry of the str
 
 ***
 
-[&larr; back to overview](https://github.com/gramaziokohler/compas_timber/wiki/compas_timber-wiki)
+[&larr; back to overview](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki)
 

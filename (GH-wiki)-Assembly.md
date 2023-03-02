@@ -8,14 +8,6 @@ Assembly as such is an abstract object. To visualize it (to visualize the beams 
 
 <img src=https://user-images.githubusercontent.com/11560512/221914346-ccdfcda1-d47f-4e1e-9192-9b22f8de20d1.png height=100>
 
-&nbsp;
-
-**Important!**   
-The order in the list of `Joints` and `Features` matters! 
-* if the user inputs two different joint definitions for the same pair of beams, the last one in the list will be applied (overrides entries earlier in the list)
-* the `Joints` are processed first, then `Features`.
-
-
 
 ***
 

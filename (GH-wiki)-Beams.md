@@ -24,4 +24,4 @@ Once a Beam is created, you can preview its shape, coordinate system and extract
 
 ***
 
-[&larr; back to overview](https://github.com/gramaziokohler/compas_timber/wiki/compas_timber-wiki)
+[&larr; back to overview](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki)

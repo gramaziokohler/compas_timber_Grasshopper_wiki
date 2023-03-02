@@ -40,6 +40,5 @@ Connecting beams can be automated using `JointCategoryRule` and `AutomaticJoints
 
 ***
 
-[&larr; back to overview](https://github.com/gramaziokohler/compas_timber/wiki/compas_timber-wiki)
-
+[&larr; back to overview](https://github.com/gramaziokohler/compas_timber_Grasshopper_wiki)
 
